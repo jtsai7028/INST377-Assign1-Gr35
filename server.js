@@ -8,9 +8,9 @@ const port = process.env.PORT || 3000;
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-app.use(express.static('INST377-Assign1-Gr35'));
+// app.use(express.static('INST377-Assign1-Gr35'));
 
-app.route('/index')
+app.route('/')
   .get((req, res) => {
     console.log('GET request detected');
     // res.send("Hello World");
