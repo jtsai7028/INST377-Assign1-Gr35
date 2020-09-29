@@ -10,7 +10,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 //app.use(express.static('public'));
 
-app.route('/index')
+app.route('/INST377-Assign1-Gr35')
   .get((req, res) => {
     console.log('GET request detected');
     // res.send("Hello World");
