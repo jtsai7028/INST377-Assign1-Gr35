@@ -13,7 +13,6 @@ app.use(express.static('design'));
 app.route('/index')
   .get((req, res) => {
     console.log('GET request detected');
-    // res.send("Hello World");
   })
   .post((req, res) => {
     console.log('POST request detected');
