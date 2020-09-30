@@ -17,7 +17,6 @@ app.route('/index')
   .post((req, res) => {
     console.log('POST request detected');
     console.log('Form data in req.body', req.body);
-    res.send("Hello World");
   });
 
 app.listen(port, () => {
