@@ -17,13 +17,13 @@ Create an HTML page named index.html
 
 Your HTML index page must contain the following elements:
 
-1. A basic, correct HTML page structure, including your document type declaration, head, title, and body sections.
-2. A header div, containing an H1 header tag
+1. [x] A basic, correct HTML page structure, including your document type declaration, head, title, and body sections.
+2. [x] A header div, containing an H1 header tag
     - This element should have a class selector on it.
     - The content should be the subject of your page.
-3. Add an image of either a University of Maryland logo or of the Testudo sculpture to your header div.
-4. A container div that can hold all of your content, with a class name of wrapper.
-5. A div element for your content body.
+3. [x] Add an image of either a University of Maryland logo or of the Testudo sculpture to your header div.
+4. [x] A container div that can hold all of your content, with a class name of wrapper.
+5. [x] A div element for your content body.
     - This element must also have a class selector on it.
 6. Two generic block-level elements (div) nested within your content div, both with class selectors.
 7. One of those div elements should contain an image (it doesn't have to be of you, but it should be, ahem, family-friendly), followed by a short "caption" description of the image contained in p tag.
