@@ -25,8 +25,8 @@ Your HTML index page must contain the following elements:
 4. [x] A container div that can hold all of your content, with a class name of wrapper.
 5. [x] A div element for your content body.
     - This element must also have a class selector on it.
-6. Two generic block-level elements (div) nested within your content div, both with class selectors.
-7. One of those div elements should contain an image (it doesn't have to be of you, but it should be, ahem, family-friendly), followed by a short "caption" description of the image contained in p tag.
+6. [x] Two generic block-level elements (div) nested within your content div, both with class selectors.
+7. [x] One of those div elements should contain an image (it doesn't have to be of you, but it should be, ahem, family-friendly), followed by a short "caption" description of the image contained in p tag.
 8. The other block-level element should contain a second-level header, a single descriptive paragraph explaining a bit about your page, and at least 3 text items, such as work history elements or fan stats (real or imagined) in an ordered list. Create these in such a way that you can style each of the 3 entries at the same time.  Include:
     - A header of the appropriate level.
     - A description of the stat or job in question.
