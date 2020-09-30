@@ -1,5 +1,15 @@
 # INST377-Assign1-Gr35
 
+## Tools
+* Please choose your color palette from https://color.adobe.com/create
+    * The "complementary" color rule will provide a solid basis for accessible, high-contrast color palettes.
+* Please choose a display font from [Google's display fonts list](https://fonts.google.com/?category=Display).
+* Please use a system font, serif or sans-serif, for your page body.
+* Articles:
+    * [Flexbox Alignment](https://www.smashingmagazine.com/2018/08/flexbox-alignment/)
+    * [CSS Tricks Complete Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    * [Flexbox Froggy, the flexbox practice page](https://flexboxfroggy.com/)
+
 ## Part 1: HTML
 You will now create a project page for your team in HTML.
 
