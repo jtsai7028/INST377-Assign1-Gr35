@@ -33,8 +33,8 @@ Your HTML index page must contain the following elements:
     - And an unordered list of three text points related to the header.
 
 ## Part 2: CSS
-1. Create an external CSS page named "styles.css".
-2. Attach this CSS file to your HTML index page using a link in the head element.
+1. [x] Create an external CSS page named "styles.css".
+2. [x] Attach this CSS file to your HTML index page using a link in the head element.
 3. Complete the following styling using only class name selectors from your HTML. Do not use ID or element tags.
 4. Use flexbox, padding, and margins for your layouts. Do not use clears and floats.
 
