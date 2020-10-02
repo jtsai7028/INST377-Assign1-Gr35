@@ -35,12 +35,12 @@ Your HTML index page must contain the following elements:
 ## Part 2: CSS
 1. [x] Create an external CSS page named "styles.css".
 2. [x] Attach this CSS file to your HTML index page using a link in the head element.
-3. Complete the following styling using only class name selectors from your HTML. Do not use ID or element tags.
-4. Use flexbox, padding, and margins for your layouts. Do not use clears and floats.
+3. [x] Complete the following styling using only class name selectors from your HTML. Do not use ID or element tags.
+4. [x] Use flexbox, padding, and margins for your layouts. Do not use clears and floats.
 
 Using your CSS stylesheet (inline edits will not be scored):
 
-1. Set the background color of your header div in HTML-1 to a dark color and change the text color to a light color.
+1. [x] Set the background color of your header div in HTML-1 to a dark color and change the text color to a light color.
 2. Set your header div to take up the entire width of a page, with no edge spacing.
     - Ensure all elements are vertically centered within the header block.
     - Your name should be to the left, and your image to the right.
