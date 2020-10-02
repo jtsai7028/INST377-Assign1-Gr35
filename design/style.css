@@ -21,7 +21,7 @@ body {
 .content {
   max-width: 960px;
   margin-right: 15px;
-  flex: 1 0 auto;
+  flex: 0 1 auto;
 }
 
 .wrapper {
@@ -49,11 +49,9 @@ body {
   align-items: flex-start;
 }
 .about-side{
-    background-color: lightgrey;
-    margin: 2%;
-    padding: 5px;
-
-
+  background-color: lightgrey;
+  margin: 2%;
+  padding: 5px;
 }
 
 .body-img{
