@@ -41,7 +41,7 @@ Your HTML index page must contain the following elements:
 Using your CSS stylesheet (inline edits will not be scored):
 
 1. [x] Set the background color of your header div in HTML-1 to a dark color and change the text color to a light color.
-2. Set your header div to take up the entire width of a page, with no edge spacing.
+2. [x] Set your header div to take up the entire width of a page, with no edge spacing.
     - Ensure all elements are vertically centered within the header block.
     - Your name should be to the left, and your image to the right.
     - Your elements should wrap when your page size changes.
