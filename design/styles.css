@@ -18,9 +18,19 @@ body {
   justify-content: space-between;
 }
 
-.header-img {
+.wrapper {
   display: flex;
-  width: 28%;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-direction: horizontal;
+}
+
+.container {
+  font-family: 'Architects Daughter', cursive;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
 }
 
 .content {
@@ -29,43 +39,29 @@ body {
   flex: 0 1 auto;
 }
 
-.wrapper {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  flex-direction: horizontal;
-
-}
 .left-side {
   display: flex;
   margin-right: 15px;
   flex-wrap: wrap;
 }
 
-.left-side-para {
-  background-color: #A4D7DB;
-  margin-right: 15px;
-  padding: 5px;
-}
-.container {
-  font-family: 'Architects Daughter', cursive;
-  font-weight:500;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: space-between;
-}
-.about-side{
-  background-color: #A4D7DB;
-  margin: 2%;
-  padding: 5px;
-}
-
-.body-img{
+.body-img {
   border-radius: 4px;
   border-width: 1px;
   border-style: solid;
   max-width: 199px;
+}
+
+.caption {
+  background-color: #A4D7DB;
+  margin-right: 15px;
+  padding: 5px;
+}
+
+.right-side{
+  background-color: #A4D7DB;
+  margin: 2%;
+  padding: 5px;
 }
 
 .sublist1, .sublist2, .sublist3 {
