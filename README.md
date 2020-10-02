@@ -47,7 +47,7 @@ Using your CSS stylesheet (inline edits will not be scored):
     - Your elements should wrap when your page size changes.
     - Your header should have fifteen pixels of space between it and your content div.
     - When your page is compressed, your elements should center themselves horizontally.
-3. Set your content div to take up no more than 960px of page width.
+3. [x] Set your content div to take up no more than 960px of page width.
 4. Using your wrapper div, set your content div to always be horizontally centered in the page.
 5. Using flexbox, display your main content divs next to one another.
 6. Ensure your image is on top of your caption text, to the left of your roles and responsibilities.
@@ -56,7 +56,7 @@ Using your CSS stylesheet (inline edits will not be scored):
 9. Allow your image to take up no more space than the maximum width of your left column.
     - Do not change the size of your UMD logo/Testudo picture while doing this.
 10. Using shorthand, add a solid, one-pixel border to your image.
-11. Set your image to have rounded corners of 4px.
+11. [x] Set your image to have rounded corners of 4px.
 12. Ensure your list element headers and page header have a different font than your body fonts.
     - Import no more than three weights of a display font from Google Fonts for this.
 13. Style your work history entries so that they all end up consistent in their appearance.
