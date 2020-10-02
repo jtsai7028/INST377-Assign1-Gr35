@@ -57,11 +57,11 @@ Using your CSS stylesheet (inline edits will not be scored):
     - Do not change the size of your UMD logo/Testudo picture while doing this.
 10. Using shorthand, add a solid, one-pixel border to your image.
 11. [x] Set your image to have rounded corners of 4px.
-12. Ensure your list element headers and page header have a different font than your body fonts.
+12. [x] Ensure your list element headers and page header have a different font than your body fonts.
     - Import no more than three weights of a display font from Google Fonts for this.
 13. Style your work history entries so that they all end up consistent in their appearance.
     - Change your role title so it stands out by adjusting no more than two rules.
-14. Set your body background to a pale color and highlight the background of your text and image.
+14. [x] Set your body background to a pale color and highlight the background of your text and image.
 15. Add a maximum screen size break at 1000 pixels.
 16. If your display size is less than 1000 pixels...
     - Set your container to center content in the page
