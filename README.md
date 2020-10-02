@@ -48,7 +48,7 @@ Using your CSS stylesheet (inline edits will not be scored):
     - Your header should have fifteen pixels of space between it and your content div.
     - When your page is compressed, your elements should center themselves horizontally.
 3. [x] Set your content div to take up no more than 960px of page width.
-4. Using your wrapper div, set your content div to always be horizontally centered in the page.
+4. [x] Using your wrapper div, set your content div to always be horizontally centered in the page.
 5. Using flexbox, display your main content divs next to one another.
 6. Ensure your image is on top of your caption text, to the left of your roles and responsibilities.
 7. Make sure that as your page changes size, your elements wrap below one another properly.
