@@ -1,10 +1,10 @@
 body {
-  background: #5be387;
+  background-color: #FAEACD;
 }
 
 .header {
-  background-color: #072091;
-  color: rgb(160, 149, 149);
+  background-color: #279AAD;
+  color: #F5F2F0;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -38,7 +38,7 @@ body {
 }
 
 .left-side-para {
-  background-color: lightgrey;
+  background-color: #A4D7DB;
   margin-right: 15px;
   padding: 5px;
 }
@@ -49,7 +49,7 @@ body {
   align-items: flex-start;
 }
 .about-side{
-  background-color: lightgrey;
+  background-color: #A4D7DB;
   margin: 2%;
   padding: 5px;
 }
