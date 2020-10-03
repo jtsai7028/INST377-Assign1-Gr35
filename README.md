@@ -49,8 +49,8 @@ Using your CSS stylesheet (inline edits will not be scored):
     - When your page is compressed, your elements should center themselves horizontally.
 3. [x] Set your content div to take up no more than 960px of page width.
 4. [x] Using your wrapper div, set your content div to always be horizontally centered in the page.
-5. Using flexbox, display your main content divs next to one another.
-6. Ensure your image is on top of your caption text, to the left of your roles and responsibilities.
+5. [x] Using flexbox, display your main content divs next to one another.
+6. [x] Ensure your image is on top of your caption text, to the left of your roles and responsibilities.
 7. Make sure that as your page changes size, your elements wrap below one another properly.
 8. Set your image and caption to take up no more than 1/3 of the flex space, and your descriptive div to take no less than 2/3 of the space.
 9. Allow your image to take up no more space than the maximum width of your left column.
