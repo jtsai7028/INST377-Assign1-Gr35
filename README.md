@@ -55,7 +55,7 @@ Using your CSS stylesheet (inline edits will not be scored):
 8. Set your image and caption to take up no more than 1/3 of the flex space, and your descriptive div to take no less than 2/3 of the space.
 9. Allow your image to take up no more space than the maximum width of your left column.
     - Do not change the size of your UMD logo/Testudo picture while doing this.
-10. Using shorthand, add a solid, one-pixel border to your image.
+10. [x] Using shorthand, add a solid, one-pixel border to your image.
 11. [x] Set your image to have rounded corners of 4px.
 12. [x] Ensure your list element headers and page header have a different font than your body fonts.
     - Import no more than three weights of a display font from Google Fonts for this.
